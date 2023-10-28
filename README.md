@@ -22,26 +22,19 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
-##### use case diagram
-![Screenshot 2023-10-29 005408](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/cb8a7a6f-f834-435f-bd34-6dde5a333182)
+##### use case diagram ![Screenshot 2023-10-29 005408](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/cb8a7a6f-f834-435f-bd34-6dde5a333182)
 
-##### class diagram
-![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/db1ec5a3-3772-4ce3-b782-01c043c303ee)
+##### class diagram ![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/db1ec5a3-3772-4ce3-b782-01c043c303ee)
 
-##### sequence diagram
-![SEQUENCE DIAGRAM](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/f514e90f-4f5f-4db6-a570-2ec9ad27b632)
+##### sequence diagram ![SEQUENCE DIAGRAM](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/f514e90f-4f5f-4db6-a570-2ec9ad27b632)
 
-##### collaboration diagram
-![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/1c1bc042-8c99-4cfa-9ecf-638fbd83b93b)
+##### collaboration diagram ![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/1c1bc042-8c99-4cfa-9ecf-638fbd83b93b)
 
-##### state chart diagram
-![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/28578e27-4589-4614-b897-ec8930111b5a)
+##### state chart diagram ![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/28578e27-4589-4614-b897-ec8930111b5a)
 
-##### activity diagram
-![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/973b133e-212e-4638-b227-a0f618307f4b)
+##### activity diagram ![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/973b133e-212e-4638-b227-a0f618307f4b)
 
-##### package diagram
-![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/449f8c01-d220-4cdc-95f7-2a48001384a6)
+##### package diagram ![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/449f8c01-d220-4cdc-95f7-2a48001384a6)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
