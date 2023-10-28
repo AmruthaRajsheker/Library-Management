@@ -41,7 +41,7 @@ Star UML
 ![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/973b133e-212e-4638-b227-a0f618307f4b)
 
 ##### package diagram
-![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/81be54fa-ebea-4bc4-802f-6b5e4b6fce36)
+![image](https://github.com/AmruthaRajsheker/Library-Management/assets/119475943/449f8c01-d220-4cdc-95f7-2a48001384a6)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
